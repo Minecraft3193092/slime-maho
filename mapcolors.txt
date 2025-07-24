@@ -1,0 +1,3 @@
+land - 00A000
+city - 78756C
+wall - B46132
