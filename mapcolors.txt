@@ -1,3 +1,12 @@
 land - 00A000
 city - 78756C
 wall - B46132
+
+= big scale =
+land - 00A000
+city - C6C6C6
+port - 939393
+port - C10000
+mountain - 00A800
+== 2x2 ==
+port - 939393 C10000 939393 C10000
