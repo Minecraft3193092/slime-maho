@@ -1,1 +1,11 @@
 Morisukeru System is a system located at Milky Way Galaxy with consists of the Morisukeru star and the objects that orbit it
+== Planets ==
+1. Mastsukuronka - a rocky planet environment was like Earth
+2. Murukasu - a rocky desert planet located at the system
+3. Karuyufusasu - a rocky planet environment is like Earth
+4. Wakamaou - a gas planet
+5. Ratukayun - a gas planet
+6. Ruyurosu - a cold rocky planet
+7. Furokusu - a cold gas planet
+8. Chakurinu - a cold rocky planet
+
