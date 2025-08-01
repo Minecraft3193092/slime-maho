@@ -12,5 +12,9 @@ The satellite is a 1:1500 clone of the Earth located at the Solar System
 The composition of the satellite is from some Morisukeru System's asteroid belt asteroids and some Matsukuronka's dirt, and some Earth plants in The composition of the satellite is 65% asteroids and 30% Matsukuronka dirt and 5% others
 The satellite's core is have a nuclear reactor and a gravity generator and a magnetic field generator
 The nuclear reactor in the core is use the uranium-235 generating energy, and estimated 5 centuries after, the reactor is exhaustion the all uranium-235, and with nuclear waste
+===== The MTK Hokkaido deep geological repository =====
+The repository located at Hokkaido (Earth MTK)
 ===== Moon MTK =====
-The satellite is a 1:1500 clone of the Moon located at the Solar System 
+The satellite is a 1:1500 clone of the Moon located at the Solar System
+===== The Moon deep geological repository =====
+The repository located at Lunar Highlands (Moon MTK)
