@@ -10,3 +10,19 @@ port - C10000
 mountain - 00A800
 == 2x2 ==
 port - 939393 C10000 939393 C10000
+= Area =
+== Tokyo ==
+Central/Chuo Ward - FF0000
+Minato Ward - FF6A00
+Peninsula/Hanto Ward - FFD800
+Chiyoda Ward - B6FF00
+Shibuya Ward - 00FFFF
+Koto City - 4800FF
+Bunkyo City - 00FF21
+Toshima City - FF00DC
+Nerima City - 4CFF00
+Suginami City - FF006E
+Edogawa City - B200FF
+Ota City - 00FF90
+Setagaya City - 0026FF
+Meguro City - 0094FF
